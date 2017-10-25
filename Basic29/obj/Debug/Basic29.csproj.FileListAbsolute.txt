@@ -1,0 +1,7 @@
+C:\Users\Natarajan Ramanathan\source\repos\Basics\Basic29\bin\Debug\Basic29.exe.config
+C:\Users\Natarajan Ramanathan\source\repos\Basics\Basic29\bin\Debug\Basic29.exe
+C:\Users\Natarajan Ramanathan\source\repos\Basics\Basic29\bin\Debug\Basic29.pdb
+C:\Users\Natarajan Ramanathan\source\repos\Basics\Basic29\obj\Debug\Basic29.csprojResolveAssemblyReference.cache
+C:\Users\Natarajan Ramanathan\source\repos\Basics\Basic29\obj\Debug\Basic29.csproj.CoreCompileInputs.cache
+C:\Users\Natarajan Ramanathan\source\repos\Basics\Basic29\obj\Debug\Basic29.exe
+C:\Users\Natarajan Ramanathan\source\repos\Basics\Basic29\obj\Debug\Basic29.pdb
